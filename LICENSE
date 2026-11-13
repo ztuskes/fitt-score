@@ -1,0 +1,20 @@
+FITT Score for Connect IQ
+Copyright (c) 2026 Echelon (https://echelon.im)
+
+Free to use, with credit.
+
+You may use this library (FittScore.barrel) in any Connect IQ app, watch face, widget or data field,
+free or paid, as long as:
+
+1. Credit. Your app's store description says:
+       FITT Score by Echelon - https://echelon.im
+   and, wherever your app shows the score's name, it is called "FITT Score".
+
+2. No resale of the library. You may not sell, rename, change, extract or publish the library itself
+   (or any part of its code) as your own. Ship it only inside your app, as it is.
+
+3. Keep this notice. Keep this LICENSE file with any copy of FittScore.barrel.
+
+THE LIBRARY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE SCORE IS A MOTIVATION
+TOOL, NOT A MEDICAL MEASUREMENT. IN NO EVENT SHALL ECHELON BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY ARISING FROM THE USE OF THE LIBRARY.
